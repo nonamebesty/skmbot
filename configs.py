@@ -6,7 +6,7 @@ import os
 class Config(object):
 	API_ID = 1923471
 	API_HASH = "fcdc178451cd234e63faefd38895c991"
-	BOT_TOKEN = "6611933319:AAEACZ0bVXlav1jk7FimcCc7u5UdNZ5AVu8"
+	BOT_TOKEN = ""
 	BOT_USERNAME = "skmfilestores4bot"
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001814192750"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "880087645"))
