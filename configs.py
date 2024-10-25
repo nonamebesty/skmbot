@@ -8,7 +8,7 @@ class Config(object):
 	API_HASH = "fcdc178451cd234e63faefd38895c991"
 	BOT_TOKEN = os.environ.get("BOT_TOKEN", "6611933319:AAGNPouDShGq-07iaIvQYyJsj_wHxb8P5nI")
 	BOT_USERNAME = "skmfilestores4bot"
-	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001814192750"))
+	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002461730224"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "880087645"))
 	DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://leecher:leecher@cluster0.606mkpi.mongodb.net/?retryWrites=true&w=majority")
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
